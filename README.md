@@ -163,7 +163,7 @@ Aliyu Idris Adeiza
 
 ---
 
-🧩 How to Use This Repository
+## 🧩 How to Use This Repository
 
 1. Browse the folders (01_Data_Engineering, 02_Data_Science, 03_Geospatial_Data_Science)
 
@@ -185,7 +185,7 @@ Aliyu Idris Adeiza
 
 ---
 
-🧾 License
+## 🧾 License
 
 This portfolio is provided for educational and professional review.
 All images and architectures are proprietary to Aliyu Idris Adeiza and may not be reused without permission.
