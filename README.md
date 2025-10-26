@@ -32,6 +32,8 @@ This repository features **screenshots, architectures, and dashboards** from pro
 | **Geospatial Analysis** | Google Earth Engine, QGIS, Rasterio, GeoPandas |
 | **Visualization** | Power BI, Tableau, Matplotlib, Plotly |
 
+
+
 ---
 
 ## 📂 Portfolio Structure
@@ -55,6 +57,7 @@ data_engineering_portfolio/
 │   └── urban_growth_trend_map.png
 │
 └── README.md
+```
 
 ---
 
