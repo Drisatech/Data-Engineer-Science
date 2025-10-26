@@ -2,7 +2,7 @@
 
 ![Portfolio Banner](assets/portfolio_banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/aliyu-idris-adeiza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/aliyu-idris)
 [![GitHub](https://img.shields.io/badge/GitHub-Drisatech-black?logo=github)](https://github.com/Drisatech)
 [![Email](https://img.shields.io/badge/Email-drisatech%40gmail.com-red?logo=gmail)](mailto:drisatech@gmail.com)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-Data_Engineer-0078D4?logo=microsoft-azure)]()
@@ -194,8 +194,3 @@ All images and architectures are proprietary to Aliyu Idris Adeiza and may not b
 ---
 
 > ⭐ If you found this portfolio insightful, feel free to connect or follow for updates on data engineering, AI, and geospatial analytics projects.
-
-
-
-
----
