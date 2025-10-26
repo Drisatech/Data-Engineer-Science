@@ -154,9 +154,11 @@ Aliyu Idris Adeiza
 ❤️ Co-Founder, Sihaj Care for Children Foundation
 
 
-📫 drisatech@gmail.com
-🌐 GitHub Profile
-💼 LinkedIn
+📫 Email: drisatech@gmail.com
+
+🌐 GitHub Profile: https://github.com/Drisatech
+
+💼 LinkedIn: https://linkedin.com/in/aliyu-idris
 
 
 ---
