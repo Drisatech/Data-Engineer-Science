@@ -56,10 +56,9 @@ data_engineering_portfolio/
 │
 └── README.md
 
-
 ---
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 
 <details>
 <summary><b>🔹 1. Azure-Based Data Engineering Pipelines</b></summary>Designed and automated ETL pipelines with Azure Data Factory.
@@ -109,7 +108,7 @@ Implemented change detection and classification maps.
 </details>
 ---
 
-☁️ Cloud Deployments & Integrations
+## ☁️ Cloud Deployments & Integrations
 
 Azure Data Factory — ETL orchestration
 
@@ -120,7 +119,6 @@ AWS S3 + Glue + Redshift — data warehousing and transformation
 GitHub Actions — CI/CD for automated builds and dataflow updates
 
 PostgreSQL / Azure SQL — structured data storage
-
 
 
 ---
@@ -139,12 +137,10 @@ Azure-connected reports refreshed via data pipelines
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 Aliyu Idris Adeiza
 📍 Data Engineer | AI Systems Developer | Cloud Solution Architect
-
-🎓 Incoming MS (Information Systems & Technology Management), George Washington University
 
 💼 CEO, DRISA Engineering & Infotech Solutions
 
@@ -178,9 +174,6 @@ Aliyu Idris Adeiza
 🔗 AI-Powered Polymer Composite Properties Predictor
 
 🔗 FarmDepot Agricultural Marketplace
-
-
-
 
 
 ---
